@@ -1,0 +1,25 @@
+#tr2{
+    background-color: goldenrod;
+}
+tr,th,td{
+
+    height: 50px;
+}
+h1,p{
+    color: darkblue;
+}
+#div1{
+    position: absolute;
+    top:110px;
+    left: 1100px;
+}
+#div0{
+    position: absolute;
+    top:110px;
+    left: 100px;
+}
+table{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
